@@ -33,7 +33,8 @@ public class ExtendReportLearning {
 	 test.log(Status.INFO, "google invoked");
 	 test.pass("passed");
 	 
-	 report.flush();	
+	 report.flush();
+	 
 	}
 	
 
